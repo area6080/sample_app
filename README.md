@@ -46,3 +46,9 @@
 # 使用素材
 * フリーイラスト素材として以下を使用
 * いらすとや(https://www.irasutoya.com/)
+
+JAVASCRIPTの学習と実装
+HTTPS化
+AIタグ回りはトランザクションにまとめる
+DRAW.IOによるAWS図
+Rails７のturbo
